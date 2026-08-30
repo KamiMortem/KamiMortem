@@ -1,4 +1,3 @@
-```markdown
 # 👋 Soy Emilio Jesús Calderón
 
 **Analista Programador Universitario | Desarrollador Full-Stack | Docente de Nivel Superior**
@@ -39,5 +38,3 @@ Profesional del área informática enfocado en el desarrollo de software y en la
 
 * 💼 **LinkedIn:** [linkedin.com/in/emilio-jesus-calderon](https://www.linkedin.com/in/emilio-jesus-calderon/)
 * ✉️ **Correo:** [calderonemiliojesus@gmail.com](mailto:calderonemiliojesus@gmail.com)
-
-```
