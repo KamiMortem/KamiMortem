@@ -26,10 +26,11 @@ Profesional del área informática enfocado en el desarrollo de software y en la
 
 | Dominio | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Frontend & Backend** | JavaScript / TypeScript, Node.js, React, HTML5 / CSS3 |
-| **Lenguajes de Programación** | Java, Python, SQL, C / C++ |
+| **Frameworks** | .NET, Angular, Spring Boot, Node.js, Express |
+| **Frontend & Backend** | JavaScript / TypeScript, React, HTML5 / CSS3 |
+| **Lenguajes de Programación** | Java, Python, SQL, C / C++ / VBA / C# / bash |
 | **Bases de Datos** | PostgreSQL, MySQL, SQLite, MongoDB |
-| **Herramientas & Entornos** | Git, GitHub, Linux, Docker, Android Studio |
+| **Herramientas & Entornos** | Git, Linux, Docker, Android Studio, Postman, VS code |
 
 ---
 
